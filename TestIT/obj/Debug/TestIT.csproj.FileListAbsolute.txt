@@ -1,0 +1,12 @@
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\TestIT.exe.config
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\TestIT.exe
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\TestIT.pdb
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\Messages.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\NServiceBus.Core.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\Messages.pdb
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\NServiceBus.Core.xml
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\obj\Debug\TestIT.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\obj\Debug\TestIT.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\obj\Debug\TestIT.csproj.CopyComplete
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\obj\Debug\TestIT.exe
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\obj\Debug\TestIT.pdb

@@ -1,0 +1,12 @@
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\Sales.exe.config
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\Sales.exe
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\Sales.pdb
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\Messages.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\NServiceBus.Core.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\Messages.pdb
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\NServiceBus.Core.xml
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\obj\Debug\Sales.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\obj\Debug\Sales.csproj.CopyComplete
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\obj\Debug\Sales.exe
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\obj\Debug\Sales.pdb

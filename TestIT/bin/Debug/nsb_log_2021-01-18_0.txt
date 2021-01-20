@@ -1,0 +1,17 @@
+﻿2021-01-18 23:58:50.505 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\TestIT\bin\Debug\' with level Info
+2021-01-18 23:58:51.617 INFO  No valid license could be found. Falling back to trial license with start date '2021-01-19'.
+2021-01-18 23:58:52.505 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-01-18 23:58:56.396 INFO  Sending PlaceOrder command, OrderId = c9435a8b-002b-42d7-b95e-ad1ea7a84adf
+2021-01-18 23:58:56.690 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-01-18 23:58:56.871 INFO  Received PlaceOrder, OrderId = c9435a8b-002b-42d7-b95e-ad1ea7a84adf
+2021-01-18 23:59:04.068 INFO  Sending PlaceOrder command, OrderId = 8cf724a1-236d-4d79-855a-9e05a472729e
+2021-01-18 23:59:04.115 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-01-18 23:59:04.136 INFO  Received PlaceOrder, OrderId = 8cf724a1-236d-4d79-855a-9e05a472729e
+2021-01-18 23:59:07.272 INFO  Sending PlaceOrder command, OrderId = 68582a13-63f4-48aa-befe-32ce5d68024b
+2021-01-18 23:59:07.341 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-01-18 23:59:07.404 INFO  Received PlaceOrder, OrderId = 68582a13-63f4-48aa-befe-32ce5d68024b
+2021-01-18 23:59:09.341 INFO  Sending PlaceOrder command, OrderId = c7f08fba-0518-4bd3-835f-2fc37670b0d5
+2021-01-18 23:59:09.375 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-01-18 23:59:09.388 INFO  Received PlaceOrder, OrderId = c7f08fba-0518-4bd3-835f-2fc37670b0d5
+2021-01-18 23:59:10.802 INFO  Initiating shutdown.
+2021-01-18 23:59:10.827 INFO  Shutdown complete.

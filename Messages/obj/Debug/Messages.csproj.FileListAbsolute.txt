@@ -1,0 +1,9 @@
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\bin\Debug\Messages.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\bin\Debug\Messages.pdb
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\obj\Debug\Messages.csproj.CopyComplete
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\obj\Debug\Messages.dll
+C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Messages\obj\Debug\Messages.pdb

@@ -1,0 +1,27 @@
+﻿2021-01-19 16:47:44.201 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 16:51:20.467 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 16:54:51.791 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:11:37.027 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:13:01.695 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:14:40.132 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:14:40.427 INFO  No valid license could be found. Falling back to trial license with start date '2021-01-19'.
+2021-01-19 17:14:53.298 INFO  Received PlaceOrder, OrderId = 2f552f2d-8ae1-4d23-bbb7-4d1bfd7ffd34
+2021-01-19 17:14:57.720 INFO  Received PlaceOrder, OrderId = 19d60556-c640-4938-b774-f5634d08f46e
+2021-01-19 17:14:59.441 INFO  Received PlaceOrder, OrderId = 97bd9d06-f370-4f04-90e3-88be84037eb8
+2021-01-19 17:15:00.468 INFO  Received PlaceOrder, OrderId = 1750cff1-28c1-479e-adf7-b970c844e1b6
+2021-01-19 17:15:01.532 INFO  Received PlaceOrder, OrderId = 700115ff-6cf0-481e-b32c-856f1d5fc74a
+2021-01-19 17:15:02.333 INFO  Received PlaceOrder, OrderId = 214458f4-496a-4015-a7be-894fed929b69
+2021-01-19 17:15:03.077 INFO  Received PlaceOrder, OrderId = 62f01d1c-2e68-4331-90c2-31f12b2c80cf
+2021-01-19 17:15:05.971 INFO  Received PlaceOrder, OrderId = 0ba17925-51e8-4305-b88b-1a2a71d5c8b2
+2021-01-19 17:15:22.260 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:15:22.602 INFO  No valid license could be found. Falling back to trial license with start date '2021-01-19'.
+2021-01-19 17:15:37.310 INFO  Received PlaceOrder, OrderId = 1452a714-f6ec-45e7-9bd3-8db8eca2e641
+2021-01-19 17:15:38.110 INFO  Received PlaceOrder, OrderId = 48b7f8b0-2645-46b6-aaea-facd92d08eb6
+2021-01-19 17:16:30.511 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 17:16:30.730 INFO  No valid license could be found. Falling back to trial license with start date '2021-01-19'.
+2021-01-19 17:16:31.119 INFO  Received PlaceOrder, OrderId = fd7270e2-4b24-4bde-ae43-971d820914bb
+2021-01-19 17:16:31.220 INFO  Received PlaceOrder, OrderId = 9c7f4cb7-4400-456c-8934-64be1bcc9862
+2021-01-19 17:16:31.255 INFO  Received PlaceOrder, OrderId = 9a4d8041-cb55-484d-9422-bb40387e35bc
+2021-01-19 17:16:31.288 INFO  Received PlaceOrder, OrderId = c3ee90c1-4614-42be-9e84-2c89547995fe
+2021-01-19 21:17:13.138 INFO  Logging to 'C:\Users\otgax\OneDrive - INTEC\prog3\Banco\Sales\bin\Debug\' with level Info
+2021-01-19 21:17:13.637 INFO  No valid license could be found. Falling back to trial license with start date '2021-01-19'.
